@@ -29,6 +29,13 @@ body {
 textarea {
     width: 395px;
     height: 60px;
+    background-color: white;
+    resize: none;
+}
+
+textarea:focus {
+    outline: none;
+    border: none;
 }
 
 div {
