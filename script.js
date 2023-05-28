@@ -78,7 +78,7 @@ let
     let updateId;
     let isUpdated = false;
     function editFunc(noteId, item) {
-        submit.innerHTML = "Update";
+        submit.innerHTML = "Edit";
         textArea.value = item;
         updateId = noteId;
         isUpdated = true;
