@@ -7,7 +7,7 @@ body {
 
 .target {
     width: 400px;
-    color: black;
+    color: rgb(27, 27, 27);
     display: flex;
     align-items: center;
     justify-content: space-between;
